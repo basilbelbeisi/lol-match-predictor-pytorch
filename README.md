@@ -2,7 +2,7 @@
 
 This project demonstrates how to build a simple logistic regression model using PyTorch to predict match outcomes (win/loss) in League of Legends based on in-game statistics.
 
-> 🔗 Full blog post: [Read the tutorial on DataSkillBlog]([https://dataskillblog.com/your-post-link-here](https://dataskillblog.com/league-of-legends-match-prediction-pytorch))  
+> 🔗 Full blog post: [Read the tutorial on DataSkillBlog](https://dataskillblog.com/league-of-legends-match-prediction-pytorch)  
 > 🌐 Visit: [https://dataskillblog.com](https://dataskillblog.com)
 
 ---
